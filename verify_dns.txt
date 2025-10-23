@@ -1,2 +1,2 @@
-google-site-verification=YOUR_GOOGLE_VERIFICATION_TOKEN_HERE
+google-site-verification=
 (Play Console에 표시된 실제 토큰으로 바꿔주세요.)
